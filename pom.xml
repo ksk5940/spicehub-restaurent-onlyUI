@@ -15,12 +15,12 @@
     <description>Authentic Hyderabadi Biryani Restaurant Website (Static UI)</description>
     
     <properties>
-        <sonar.host.url>http://54.221.8.252:9000//</sonar.host.url>
-	<sonar.login>admin</sonar.login>
-	<sonar.password>admin123</sonar.password>
-	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<maven.compiler.source>17</maven.compiler.source>
-         <maven.compiler.target>17</maven.compiler.target>
+    	<sonar.host.url>http://54.221.8.252:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin123</sonar.password>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>17</maven.compiler.source>
+    	<maven.compiler.target>17</maven.compiler.target>
     </properties>
     
     <!-- No dependencies needed for static content -->
